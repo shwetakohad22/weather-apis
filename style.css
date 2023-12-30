@@ -1,0 +1,12 @@
+#country-container {
+}
+
+.img-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.col-container {
+  padding: 20px;
+}
